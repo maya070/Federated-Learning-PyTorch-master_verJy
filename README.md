@@ -1,10 +1,10 @@
 # Federated-Learning-PyTorch-master_verJy
 
-1. Federated Learning with EMG(exponent moving averaging)
+#1. Federated Learning with EMG(exponent moving averaging)
 - federated learning paper : communication-efficient learning of deep networks from decentralized data
 - In Federated learning experments, parameters were used to add exponential moving averages
  
-2. option
+#2. option
 - dataset : MNIST, Fashion MNIST, CIFAR-10
 - hyper parameter( in option.py)
      ## EMG option 
@@ -20,7 +20,7 @@
     - gpu : gpu id 
     
     
-3.runing 
+#3.runing 
 first, You must checked out your options in option.py
 
     - python federated_main.py 
