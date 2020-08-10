@@ -8,15 +8,15 @@
 - dataset : MNIST, Fashion MNIST, CIFAR-10
 - hyper parameter( in option.py)
      ## EMG option 
-    - mode : moving average mode
-    - alpa : number of start weight value
-    - alpa_weight : number of alpa weight 
+    - mode : moving average mode ( on / off ) 
+    - alpa : number of start weight value ( 0.1 - 0.99 )
+    - alpa_weight : number of alpa weight ( 0.1 - 0.99 )
     ## Federated learning option
     - epoch : client epoch
     - round : server epoch
     - number_users : number of client
-    - model : mlp or cnn
-    - dataset : mnist/fmnist/cifar
+    - model : mlp / cnn
+    - dataset : mnist / fmnist / cifar
     - gpu : gpu id 
     
     
