@@ -1,4 +1,4 @@
-# Federated-Learning-PyTorch-master_verJy
+# Federated-Learning-with-emg
 
 # 1. Federated Learning with EMG(exponent moving averaging)
 - federated learning paper : communication-efficient learning of deep networks from decentralized data
